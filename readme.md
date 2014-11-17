@@ -1,9 +1,9 @@
-#reddit alfred workflow#
+# reddit alfred workflow
 
-##usage## 
+## usage 
 
 r/ xxx or r/
 
-##screenshot##
+## screenshot
 
 ![screenshot](screenshot.png)
